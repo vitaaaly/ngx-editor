@@ -1,11 +1,11 @@
 {
-  "name": "ngx-editor",
-  "version": "9.0.1",
+  "name": "@vitaaaly/ngx-editor",
+  "version": "1.0.0",
   "description": "Rich Text Editor for angular using ProseMirror",
   "license": "MIT",
-  "repository": "https://github.com/sibiraj-s/ngx-editor.git",
-  "bugs": "https://github.com/sibiraj-s/ngx-editor/issues",
-  "homepage": "https://github.com/sibiraj-s/ngx-editor",
+  "repository": "https://github.com/vitaaaly/ngx-editor.git",
+  "bugs": "https://github.com/vitaaaly/ngx-editor/issues",
+  "homepage": "https://github.com/vitaaaly/ngx-editor",
   "keywords": [
     "angular-editor",
     "angular-wysiwyg-editor",
